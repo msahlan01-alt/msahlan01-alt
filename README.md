@@ -35,6 +35,12 @@ Backend :
 [![SPRING%20BOOT](https://img.shields.io/badge/SPRING%20BOOT-1a1a1a?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![MYSQL](https://img.shields.io/badge/MYSQL-e60000?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+IoT :
+<br>
+[![ARDUINO IDE](https://img.shields.io/badge/ARDUINO%20IDE-1a1a1a?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
+[![C++](https://img.shields.io/badge/C%2B%2B-e60000?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![ESP32](https://img.shields.io/badge/ESP32-1a1a1a?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+
 ---
 
 <picture>
