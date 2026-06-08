@@ -24,16 +24,16 @@
 
 Frontend:
 <br>
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-e60000?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-e60000?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 Backend :
 <br>
-[![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![SPRING%20BOOT](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JAVA](https://img.shields.io/badge/JAVA-e60000?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![SPRING%20BOOT](https://img.shields.io/badge/SPRING%20BOOT-1a1a1a?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MYSQL](https://img.shields.io/badge/MYSQL-e60000?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ---
 
