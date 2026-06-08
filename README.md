@@ -1,8 +1,3 @@
-## Hi, I'm Muh. Sahlan Rahman
-As an undergraduate majoring in Informatics, I possess a profound passion for software development and the rapidly expanding realm of the Internet of Things
-
----
-  
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=500&color=8B0000&center=true&vCenter=true&width=550&lines=just+an+ordinary+student;individualist+by+nature;coding+alone+in+the+dark;learn+at+my+own+pace;no+collab%2C+just+me" alt="lowkey" />
 
@@ -27,10 +22,16 @@ As an undergraduate majoring in Informatics, I possess a profound passion for so
 
 ---
 
+## About
+#### As an undergraduate majoring in Informatics, I possess a profound passion for software development and the rapidly expanding realm of the Internet of Things
+
+<br>
+
 ## Funfact
 - Having a childlike mindset and warm up to people easily.
 - <i>"For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."</i>— Jeremiah 29:11
----
+
+<br>
 
 ##  Tech Stack
 
