@@ -4,14 +4,19 @@
   <img src="/src/kirari-momobami.gif"/>
 
 <br>
-
-  <a href="https://discord.com/users/iuulu.">
-    <img src="https://img.shields.io/badge/DISCORD-iuulu.-5865F2?style=flat-square" alt="discord" />
+  <a href="https://discord.com/users/531755230426169354">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
-  <a href="https://twitter.com/A14N_0618">
-    <img src="https://img.shields.io/badge/TWITTER-@A14N_0618-292329?style=flat-square" alt="twitter" />
+  &nbsp;
+  <!-- X -->
+  <a href="https://x.com/A14N_0618">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
   </a>
-
+  &nbsp;
+  <!-- Line -->
+  <a href="https://line.me/ti/p/~LINE_ID">
+    <img src="https://img.shields.io/badge/-Line-06C755?style=for-the-badge&logo=line&logoColor=white" alt="line" />
+  </a>
   <br>
 
   <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=C3110C&style=flat-square" alt="profile views" />
