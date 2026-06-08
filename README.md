@@ -8,12 +8,10 @@
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
   &nbsp;
-  <!-- X -->
   <a href="https://x.com/A14N_0618">
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
   </a>
   &nbsp;
-  <!-- Line -->
   <a href="https://line.me/ti/p/~LINE_ID">
     <img src="https://img.shields.io/badge/-Line-06C755?style=for-the-badge&logo=line&logoColor=white" alt="line" />
   </a>
@@ -29,3 +27,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msahlan01-alt/msahlan01-alt/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/msahlan01-alt/msahlan01-alt/output/pacman-contribution-graph.svg">
 </picture>
+<i>Eating my own commit</i>
