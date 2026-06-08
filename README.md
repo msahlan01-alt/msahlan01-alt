@@ -25,6 +25,13 @@ As an undergraduate majoring in Informatics, I possess a profound passion for so
   <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=e62e00&style=flat-square" alt="profile views" />
 </div>
 
+---
+
+## Funfact
+- Having a childlike mindset and warm up to people easily.
+- <i>"For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."</i>— Jeremiah 29:11
+---
+
 ##  Tech Stack
 
 Frontend:
