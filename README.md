@@ -6,15 +6,14 @@
 <br>
 
   <a href="https://discord.com/users/iuulu.">
-    <img src="https://img.shields.io/badge/DISCORD-username-8B0000?style=flat-square" alt="discord" />
+    <img src="https://img.shields.io/badge/DISCORD-iuulu.-5865F2?style=flat-square" alt="discord" />
   </a>
-  &nbsp;
   <a href="https://twitter.com/A14N_0618">
-    <img src="https://img.shields.io/badge/TWITTER-@handle-8B0000?style=flat-square" alt="twitter" />
+    <img src="https://img.shields.io/badge/TWITTER-@A14N_0618-292329?style=flat-square" alt="twitter" />
   </a>
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=8B0000&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=C3110C&style=flat-square" alt="profile views" />
 
 </div>
