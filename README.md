@@ -5,19 +5,19 @@
 
 <br>
   <a href="https://discord.com/users/531755230426169354">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+    <img src="https://img.shields.io/badge/-Discord-4a0005?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
   &nbsp;
   <a href="https://x.com/A14N_0618">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+    <img src="https://img.shields.io/badge/-Tweet-4a0005?style=for-the-badge&logo=x&logoColor=white" alt="x" />
   </a>
   &nbsp;
   <a href="https://line.me/ti/p/~LINE_ID">
-    <img src="https://img.shields.io/badge/-Line-06C755?style=for-the-badge&logo=line&logoColor=white" alt="line" />
+    <img src="https://img.shields.io/badge/-Line-4a0005?style=for-the-badge&logo=line&logoColor=white" alt="line" />
   </a>
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=C3110C&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=e62e00&style=flat-square" alt="profile views" />
 </div>
 
 ##  Tech Stack
