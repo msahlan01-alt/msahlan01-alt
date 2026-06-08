@@ -20,5 +20,12 @@
   <br>
 
   <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=C3110C&style=flat-square" alt="profile views" />
-
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msahlan01-alt/msahlan01-alt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msahlan01-alt/msahlan01-alt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/msahlan01-alt/msahlan01-alt/output/pacman-contribution-graph.svg">
+</picture>
