@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <img src="kirari-momobami.gif" width="120" alt="gif" />
 
-<!--
-**msahlan01-alt/msahlan01-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=8B0000&style=flat-square" alt="views" />
 
-Here are some ideas to get you started:
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=500&color=8B0000&center=true&vCenter=true&width=435&lines=Alannn" alt="typing" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=500&color=8B0000&center=true&vCenter=true&width=550&lines=just+an+ordinary+student;individualist+by+nature;coding+alone+in+the+dark;learn+at+my+own+pace;no+collab%2C+just+me;m3lts+9.0+%2F%2F+lowkey" alt="lowkey" />
+
+</div>
