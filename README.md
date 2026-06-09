@@ -22,11 +22,13 @@
 
 <h1 align="center">𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</h1>
 
-#### As an undergraduate majoring in Informatics, I have a deep fascination with software development and the ever-evolving world of IoT. I also have a childlike curiosity that helps me feel at ease around new people almost instantly. Outside of tech, I love getting lost in music.
+<h3 align="center">As an undergraduate majoring in Informatics, I have a deep fascination with software development and the ever-evolving world of IoT. I also have a childlike curiosity that helps me feel at ease around new people almost instantly. Outside of tech, I love getting lost in music.</h3>
 
+<div align="center">
   <a href="https://open.spotify.com/user/31gosmhelcaupjaye66fjzfvreim">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gosmhelcaupjaye66fjzfvreim&count=3&unique=on" alt="Spotify recently played"  />
   </a>
+</div>
 
 <br>
 
