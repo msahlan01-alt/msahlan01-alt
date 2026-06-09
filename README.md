@@ -23,13 +23,7 @@
 ---
 
 ## About
-#### As an undergraduate majoring in Informatics, I possess a profound passion for software development and the rapidly expanding realm of the Internet of Things
-
-<br>
-
-## Funfact
-- Having a childlike mindset and warm up to people easily.
-- <i>"For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."</i>— Jeremiah 29:11
+#### As an undergraduate majoring in Informatics, I have a deep fascination with software development and the ever-evolving world of IoT. I also have a playful, childlike curiosity that helps me feel at ease around new people almost instantly
 
 <br>
 
@@ -62,3 +56,16 @@ IoT :
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/msahlan01-alt/msahlan01-alt/output/pacman-contribution-graph.svg">
 </picture>
 <i>Eating my own commit</i>
+
+---
+
+<div align="center">
+
+  <p style="color: #FF2400; font-style: italic; font-family: Georgia, serif; text-align: center; font-size: 14px;">
+    "For I know the plans I have for you, declares the Lord,<br>
+    plans to prosper you and not to harm you,<br>
+    plans to give you hope and a future."<br>
+    Jeremiah 29:11
+  </p>
+
+</div>
