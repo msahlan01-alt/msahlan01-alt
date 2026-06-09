@@ -20,10 +20,14 @@
   <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=e62e00&style=flat-square" alt="profile views" />
 </div>
 
----
+<br>
 
 ## About
-#### As an undergraduate majoring in Informatics, I have a deep fascination with software development and the ever-evolving world of IoT. I also have a playful, childlike curiosity that helps me feel at ease around new people almost instantly
+#### As an undergraduate majoring in Informatics, I have a deep fascination with software development and the ever-evolving world of IoT. I also have a childlike curiosity that helps me feel at ease around new people almost instantly. Outside of tech, I love getting lost in music.
+
+  <a href="https://open.spotify.com/user/31gosmhelcaupjaye66fjzfvreim">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gosmhelcaupjaye66fjzfvreim&count=3&unique=on" alt="Spotify recently played"  />
+  </a>
 
 <br>
 
